@@ -6,7 +6,7 @@ This repository chronicles my journey through the fascinating world of machine l
 
 ## Projects
 ### 1.Image Detection
-### 2.Road Lane Line Detection
+### 2.Road Lane Detection
 
 ## What to Expect
 - Clear code, detailed explanations, and occasional “aha!” moments.  
