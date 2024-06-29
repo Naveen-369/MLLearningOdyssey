@@ -40,6 +40,5 @@ This repository contains a Python-based road lane line detection system using co
 
 ## Lisence
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-Feel free to add more sections, such as "Contributing," "References," or "Future Work," depending on your project's scope. Good luck with your road lane line detection system! 🚗🛣️
+This project is licensed under the MIT License. See the `LICENSE` file in the root directory for more details.
+Good luck with your road lane line detection system! 🚗🛣️
