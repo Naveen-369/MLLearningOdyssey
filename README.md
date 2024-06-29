@@ -5,8 +5,9 @@ Exploring machine learning through captivating projects. 🚀🤖
 This repository chronicles my journey through the fascinating world of machine learning. As I embark on this odyssey, I’ll be working on ten exciting projects, each designed to deepen my understanding of ML concepts, algorithms, and applications.
 
 ## Projects
-### 1.Image Detection
-### 2.Road Lane Detection
+### 1.[Image Detection]()
+### 2.[Road Lane Detection]()
+### 3.[Leaf Disease Detection]()
 
 ## What to Expect
 - Clear code, detailed explanations, and occasional “aha!” moments.  
