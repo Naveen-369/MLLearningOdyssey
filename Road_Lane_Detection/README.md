@@ -37,13 +37,6 @@ This repository contains a Python-based road lane line detection system using co
 
 2. The processed video will be saved as `output_video.mp4`.
 
-## Example Output
-
-
-
-![image](https://github.com/Naveen-369/Lane_Line_Detection/assets/112697602/8e938883-e15c-4356-84ab-5bd8948ce9ec)
-
-
 
 ## Lisence
 
