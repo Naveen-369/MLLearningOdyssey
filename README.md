@@ -2,7 +2,7 @@
 Exploring machine learning through captivating projects. 🚀🤖
 
 ## Overview
-This repository chronicles my journey through the fascinating world of machine learning. As I embark on this odyssey, I’ll be working on ten exciting projects, each designed to deepen my understanding of ML concepts, algorithms, and applications.
+This repository chronicles my journey through the fascinating world of machine learning. As I embark on this odyssey, I’ll work on various exciting projects designed to deepen my understanding of ML concepts, algorithms, and applications.
 
 ## Projects
 ### 1.[Image Detection](https://github.com/Naveen-369/MLLearningOdyssey/tree/Production_Server/Image_Identification)
