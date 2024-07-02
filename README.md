@@ -9,7 +9,8 @@ This repository chronicles my journey through the fascinating world of machine l
 ### 2.[Road Lane Detection](https://github.com/Naveen-369/MLLearningOdyssey/tree/Production_Server/Road_Lane_Detection)
 ### 3.[Leaf Disease Detection](https://github.com/Naveen-369/MLLearningOdyssey/tree/Production_Server/Leaf_Disease_Detection)
 ### 4.[Summer Heat Waves Detection and Mobile Alert System](https://github.com/Naveen-369/MLLearningOdyssey/tree/Production_Server/Summer_Heat_Waves_Mobile_ALert_System)
-### 5. [Iris Flower Classification](https://github.com/Naveen-369/MLLearningOdyssey/tree/Production_Server/Iris_Classification)
+### 5.[Iris Flower Classification](https://github.com/Naveen-369/MLLearningOdyssey/tree/Production_Server/Iris_Classification)
+### 6.[Credit Card Fraud Detection System](https://github.com/Naveen-369/MLLearningOdyssey/tree/Production_Server/Credit_Card_Fraud_Detection)
 ## What to Expect
 - Clear code, detailed explanations, and occasional “aha!” moments.  
 - Feel free to explore the projects, contribute, or simply follow along.
