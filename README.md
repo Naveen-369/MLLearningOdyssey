@@ -15,6 +15,11 @@ This repository chronicles my journey through the fascinating world of machine l
 - Clear code, detailed explanations, and occasional “aha!” moments.  
 - Feel free to explore the projects, contribute, or simply follow along.
 
+## Concepts
+- Carry edge Detection
+- Neural Networks
+- RandomForestClassifier
+
 ## Let’s Learn Together!
 Join me on this ML learning odyssey. Together, we’ll unravel the mysteries of neural networks, data preprocessing, and model evaluation. 🤖🔍
 
